@@ -16,8 +16,6 @@ export default function LineChartComponent({ data }) {
     ];
   });
 
-  console.log(lines);
-
   const database = {
     labels: ["Sat", "Sun", "Mon", "Tue", "Wed", "Thu", "Fri"],
 
